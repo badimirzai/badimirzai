@@ -5,38 +5,36 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=2f81f7&center=true&vCenter=true&width=850&height=44&lines=Building+Robotics+Developer+Tools;Embedded+Systems+%E2%80%A2+Robotics+%E2%80%A2+Go;Making+Engineers+More+Productive" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Building+Software,+Robotics+%26+Embedded+Systems;Solving+Complex+Engineering+Problems;Always+Building+Something+New" alt="Typing headlines" />
 </p>
 
 <h3 align="center">
-Systems & Robotics Engineer focused on developer tooling, embedded systems, and high-reliability software.
+Systems & Robotics Engineer passionate about software engineering, robotics, embedded systems, and the infrastructure that ties them together.
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-I enjoy building tools that eliminate engineering friction and improve developer productivity, especially within robotics and hardware.
+I enjoy building real systems, from backend software and cloud infrastructure to embedded electronics and robotics. I'm especially interested in solving difficult engineering problems and building software that makes complex systems easier to develop, deploy, and maintain.
 
 - 🔭 **Currently building:** Robotics & hardware developer tooling
-- 🎓 **Education:** M.Sc. Systems, Control & Robotics (KTH Royal Institute of Technology)
-- 🎯 **Interests:** Robotics, Embedded Systems, Distributed Systems, Infrastructure & Developer Experience
+- 🎓 **Education:** M.Sc. Systems, Control & Robotics, KTH Royal Institute of Technology
+- 🎯 **Interests:** Robotics, Embedded Systems, Software Engineering, Distributed Systems, AI, and Developer Experience
 - 🥋 **Outside engineering:** Martial Arts
 
 ---
 
 ## ⭐ Featured Projects
 
-> *Coming soon as more projects mature.*
+### 🚀 Architon
+Hardware compatibility verification for robotics and embedded systems.
 
-- **Architon**  
-  Hardware compatibility verification for robotics and embedded systems.
+### 🤖 ROS2 Preflight
+Tooling for reproducible and reliable ROS2 development environments.
 
-- **ROS2 Preflight**  
-  Tooling for reproducible and reliable ROS2 development environments.
-
-- **More projects**
-  Building open-source tools around robotics, infrastructure, and developer productivity.
+### ⚙️ More to come
+I'm continuously building open-source projects around robotics, embedded systems, software engineering, and developer productivity.
 
 ---
 

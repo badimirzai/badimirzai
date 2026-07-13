@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-Systems & Robotics Engineer passionate about software engineering, robotics, embedded systems, and the infrastructure that ties them together.
+Systems & Robotics Engineer passionate about software engineering, robotics, embedded systems, and the infrastructure that brings them together.
 </h3>
 
 ---
@@ -18,7 +18,7 @@ Systems & Robotics Engineer passionate about software engineering, robotics, emb
 
 I enjoy building real systems, from backend software and cloud infrastructure to embedded electronics and robotics. I'm especially interested in solving difficult engineering problems and building software that makes complex systems easier to develop, deploy, and maintain.
 
-- 🔭 **Currently building:** Robotics & hardware developer tooling
+- 🔭 **Currently building:** Open-source projects in robotics and software engineering
 - 🎓 **Education:** M.Sc. Systems, Control & Robotics, KTH Royal Institute of Technology
 - 🎯 **Interests:** Robotics, Embedded Systems, Software Engineering, Distributed Systems, AI, and Developer Experience
 - 🥋 **Outside engineering:** Martial Arts

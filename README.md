@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Building+Software,+Robotics+%26+Embedded+Systems;Solving+Complex+Engineering+Problems;Always+Building+Something+New" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Building+Software,+Robotics+%26+Embedded+Systems;Solving+Complex+Engineering+Problems" alt="Typing headlines" />
 </p>
 
 <h3 align="center">

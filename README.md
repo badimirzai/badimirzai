@@ -12,6 +12,17 @@
 Systems & Robotics Engineer passionate about software engineering, robotics, embedded systems, and the infrastructure that brings them together.
 </h3>
 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/badimirzai/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/BadiMirzai" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -24,20 +35,6 @@ I enjoy building real systems, from backend software and cloud infrastructure to
 - 🥋 **Outside engineering:** Martial Arts
 
 ---
-
-## ⭐ Featured Projects
-
-### 🚀 Architon
-Hardware compatibility verification for robotics and embedded systems.
-
-### 🤖 ROS2 Preflight
-Tooling for reproducible and reliable ROS2 development environments.
-
-### ⚙️ More to come
-I'm continuously building open-source projects around robotics, embedded systems, software engineering, and developer productivity.
-
----
-
 ## 🛠 Tech Stack
 
 <p align="left">
@@ -61,17 +58,16 @@ I'm continuously building open-source projects around robotics, embedded systems
 
 ---
 
-## 📫 Connect
+## ⭐ Featured Projects
 
-<p align="left">
-<a href="https://www.linkedin.com/in/badimirzai/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Architon
+Hardware compatibility verification for robotics and embedded systems.
 
-<a href="https://x.com/BadiMirzai" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-</p>
+### ROS2 Preflight
+Tooling for reproducible and reliable ROS2 development environments.
+
+### More to come
+I'm continuously building open-source projects around robotics, embedded systems, software engineering, and developer productivity.
 
 ---
 
